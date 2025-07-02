@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+
 class School {
 protected:
     int code;
@@ -22,6 +23,7 @@ public:
     void showData() override {
         cout << "[Student] ";
         School::showData();
+
     }
     // No editData override: inherits base class (cannot edit)
 };

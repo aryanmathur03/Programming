@@ -51,5 +51,3 @@
 #     l2.append(dub(l))
    
 # print(l2)
-import os
-os.remove("C:\Windows\System32")
