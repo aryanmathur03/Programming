@@ -8,8 +8,7 @@ int main(){
     cout << "b. for erasing an element at a specific position in the vector\n";
     cout << "c. clear vector " << endl;
     string choice;
-    cout << "Enter your choice (a/b/c
-    ): ";
+    cout << "Enter your choice (a/b/c): ";
     cin >> choice;
     if (choice =="a" || choice == "A"){
         int pos, val;
