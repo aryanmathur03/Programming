@@ -41,3 +41,14 @@
 //   printf("%d", x);
 //   return 0;
 // }  
+
+// bitwise not operator
+
+
+#include <stdio.h>
+int main() {
+    int x = 5;
+    x = ~x;
+    printf("%d", x);
+    return 0;
+}
