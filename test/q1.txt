@@ -1,0 +1,3 @@
+Q1. print all primes in a range a to b
+Q2. Give the mode of the given data
+
